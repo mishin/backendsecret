@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[backendsecret]]></title>
+        <description><![CDATA[Коллективный твиттер-аккаунт для бэкенд-разработчиков с новым автором каждую неделю]]></description>
+        <link>https://backendsecret.ru/</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sat, 25 Jul 2015 08:24:02 GMT</lastBuildDate>
+        <atom:link href="https://backendsecret.ru/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[MIT]]></copyright>
+        <language><![CDATA[en-us]]></language>
+        <managingEditor><![CDATA[iamstarkov@gmail.com (Vladimir Starkov)]]></managingEditor>
+        <webMaster><![CDATA[iamstarkov@gmail.com (Vladimir Starkov)]]></webMaster>
+        <category><![CDATA[frontend]]></category>
+        <category><![CDATA[css]]></category>
+        <category><![CDATA[twitter]]></category>
+        <item>
+            <title><![CDATA[4gophers]]></title>
+            <description><![CDATA[Всем привет! На этой неделе вас буду развлекать я.]]></description>
+            <link>https://backendsecret.ru/4gophers/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/4gophers/</guid>
+            <pubDate>Mon, 13 Jul 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[zkonstantin]]></title>
+            <description><![CDATA[Доброй ночи мальчики и девочки, настраиваю репликацию mongodb, а вы как проводите время?]]></description>
+            <link>https://backendsecret.ru/zkonstantin/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/zkonstantin/</guid>
+            <pubDate>Sun, 05 Jul 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[nmishin]]></title>
+            <description><![CDATA[Итак, господа, эту неделю этот Твиттер аккаунт будет посвящен языку #Perl и его буду вести я, Николай Мишин @nmishin]]></description>
+            <link>https://backendsecret.ru/nmishin/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/nmishin/</guid>
+            <pubDate>Sun, 28 Jun 2015 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
